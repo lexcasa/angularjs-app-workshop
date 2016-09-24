@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html ng-app="app" ng-cloak>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>AngularJS WORKSHOP!</title>
+		
+		<!-- STYLES -->
+		<link id="page_favicon" href="imgs/favicon.ico" rel="icon" type="image/x-icon">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/style.css">
+
+		<!-- DEPENDENCIAS / BOWER -->
+		<script src="bower_components/jquery/dist/jquery.min.js"></script>
+		<script src="bower_components/angular/angular.js"></script>
+
+		<!-- ROUTER -->
+		<script src="bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+
+	</head>
+	<body>
+		<div id="container">
+			<!-- RENDER VIEWS -->
+			<ui-view></ui-view>
+		</div>
+
+		<!-- APP -->
+		<script src="app/app.js"></script>
+		<script src="app/config.route.js"></script>
+
+		<!-- CONTROLLERS -->
+		<script src="app/components/home/controllers/homeCtrl.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "name": "angularjs-workshop-birl",
+  "description": "¡¡BIRL!!",
+  "main": "index.js",
+  "authors": [
+    "lexcasa"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": false,
+  "dependencies": {
+    "angular": "^1.5.8",
+    "jquery": "^3.1.1",
+    "angular-ui-router": "^0.3.1"
+  }
+}
