@@ -17,20 +17,20 @@ AngularJS APP Workshop and beer
 
 	* LOS ABMS DEBERAN PODER LISTAR, EDITAR Y ELIMINAR
 
-		DOCUMENTACION PARA JAVASCRIPT: 
+		* DOCUMENTACION PARA JAVASCRIPT: 
 
 			* http://www.w3schools.com/js/
 
-		DOCUMENTACION ANGULARJS
+		* DOCUMENTACION ANGULARJS
 
 			* https://docs.angularjs.org/guide
 
 
--- INSTALAR PROYECTO
+* INSTALAR PROYECTO
 
-sudo apt-get install nodejs
-sudo apt-get install npm
+`sudo apt-get install nodejs`
+`sudo apt-get install npm`
 
-sudo npm install -g bower
+`sudo npm install -g bower`
 
-* En la carpeta del proyecto: bower install
+* En la carpeta del proyecto: `bower install`
