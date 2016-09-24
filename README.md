@@ -1,30 +1,29 @@
 # angularjs-app-workshop
 AngularJS APP Workshop and beer
 
+* Acá hay que laburar
 
--- Acá hay que laburar
+	* No pregunten sobre GIT
+	* No pregunten sobre HTML & CSS, NI BEM
+	* Si tienen windows AJO Y AGUA
 
-	-- No pregunten sobre GIT
-	-- No pregunten sobre HTML & CSS, NI BEM
-	-- Si tienen windows AJO Y AGUA
-
--- WORKSHOP
+* WORKSHOP
 	
-	-- GENERAR: 3 ABMS ~ PIZZERIA #PEPEMUJICA
+	* GENERAR: 3 ABMS ~ PIZZERIA #PEPEMUJICA
 
-		- USUARIOS ( ID, NOMBRE, APELLIDO, DIRECCION, TELEFONO )
-		- PRODUCTOS ( ID, NOMBRE, STOCK, PRECIO, MONEDA )
-		- PEDIDO (ID, USUARIO, PRODUCTO, TOTAL, MONEDA )
+		* USUARIOS ( ID, NOMBRE, APELLIDO, DIRECCION, TELEFONO )
+		* PRODUCTOS ( ID, NOMBRE, STOCK, PRECIO, MONEDA )
+		* PEDIDO (ID, USUARIO, PRODUCTO, TOTAL, MONEDA )
 
-	-- LOS ABMS DEBERAN PODER LISTAR, EDITAR Y ELIMINAR
+	* LOS ABMS DEBERAN PODER LISTAR, EDITAR Y ELIMINAR
 
 		DOCUMENTACION PARA JAVASCRIPT: 
 
-			- http://www.w3schools.com/js/
+			* http://www.w3schools.com/js/
 
 		DOCUMENTACION ANGULARJS
 
-			- https://docs.angularjs.org/guide
+			* https://docs.angularjs.org/guide
 
 
 -- INSTALAR PROYECTO
